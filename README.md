@@ -3,7 +3,7 @@
 
 #使用方法
 
-`wget https://github.com/JianpengHe/ssl/blob/master/ssl.sh`
+`wget https://raw.githubusercontent.com/JianpengHe/ssl/master/ssl.sh`
 
 `chmod +x ssl.sh`
 
